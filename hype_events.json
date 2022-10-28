@@ -1,0 +1,94 @@
+{
+    "Events": [
+
+{
+    "id": "1",
+    "date": "2023-05-19",
+    "title": "EDC Las Vegas 2023",
+    "url": "https://lasvegas.electricdaisycarnival.com/",
+    "color": "#1b34f2",
+    "imageURL": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/sites/21/2022/09/26115913/edclv_2023_mk_an_fest_site_homepage_header_desktop_3200x1520_r02-scaled.jpg"
+},
+
+{
+    "id": "2",
+    "date": "2023-10-22",
+    "title": "Lost Lands 2023",
+    "url": "https://www.lostlandsfestival.com/",
+    "color": "#30a149",
+    "imageURL": "https://www.lostlandsfestival.com/wp-content/uploads/2022/01/LostLands2022Logo_TEXT_DATES_650px.png"
+},
+
+{
+    "id": "3",
+    "date": "2023-06-17",
+    "title": "Illenium: Trilogy Colorado",
+    "url": "https://illeniumtrilogy.com/",
+    "color": "#edd837",
+    "imageURL": "https://aegwebprod.blob.core.windows.net/content/content_images/291/wTdiHvcIVjKzEuLcnWjQABA5vMy8Lssre7lZm0RG.jpg"
+},
+
+{
+    "id": "4",
+    "date": "2023-08-04",
+    "title": "Veld Music Festival",
+    "url": "https://veldmusicfestival.com/",
+    "color": "#f08913",
+    "imageURL": "https://veldmusicfestival.com/wp-content/uploads/2022/06/veld_2022_lineup_banner-01-1-2.png"
+},
+
+{
+    "id": "5",
+    "date": "2023-06-23",
+    "title": "Escapade Music Festival",
+    "url": "https://escapademf.com/",
+    "color": "#eb34bd",
+    "imageURL": "https://escapademf.com/wp-content/uploads/2022/08/MooseVision_MartinGarrix-4.jpg"
+},
+
+{
+    "id": "6",
+    "date": "2023-08-11",
+    "title": "ÎleSoniq",
+    "url": "https://www.ilesoniq.com/fr",
+    "color": "#0fd8f2",
+    "imageURL": "https://www.ilesoniq.com/uploads/ilesoniq/history/galleries/2022/Site&Experience_IleSoniq_2022%C2%A9Benoit_Rousseau_BR105905.jpg?v=4c64f28acab021bcb7b5fdcac15bf3c4"
+},
+
+{
+    "id": "7",
+    "date": "2023-07-07",
+    "title": "Ultra Europe",
+    "url": "https://ultraeurope.com/",
+    "color": "#ffffff",
+    "imageURL": "https://ultraeurope.com/wp-content/uploads/2022/07/ULTRA-EUROPE-Website-Banner-Announcement-1.jpeg"
+},
+
+{
+    "id": "8",
+    "date": "2022-12-30",
+    "title": "Countdown NYE",
+    "url": "https://countdownnye.com/",
+    "color": "#875704",
+    "imageURL": "https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/sites/59/2022/09/20115737/csc_2022_mk_an_fest_site_homepage_header_desktop_3200x1520_r02-scaled.jpg"
+},
+
+{
+    "id": "9",
+    "date": "2022-12-30",
+    "title": "Battlefields 001",
+    "url": "https://www.facebook.com/events/665681305136504",
+    "color": "#fc7f03",
+    "imageURL": "https://scontent.fyhu2-1.fna.fbcdn.net/v/t39.30808-6/311291791_111519905065803_881162810522964738_n.jpg?stp=dst-jpg_p180x540&_nc_cat=108&ccb=1-7&_nc_sid=340051&_nc_ohc=UjHLjcvL7tAAX-zady3&_nc_ht=scontent.fyhu2-1.fna&oh=00_AfD-0wCfiJRnFm1EIm1DOTImE2N50Q2s1NqbAGD3DRcNXw&oe=6360111E"
+},
+
+{
+    "id": "10",
+    "date": "2022-11-16",
+    "title": "Alan Walker Montréal",
+    "url": "https://evenko.ca/fr/evenements/45746/alan-walker/mtelus/11-16-2022",
+    "color": "#fcdb03",
+    "imageURL": "https://scontent.fyhu2-1.fna.fbcdn.net/v/t39.30808-6/280154081_10160076911067422_8878535854123263563_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=340051&_nc_ohc=j5UFQo_kr0cAX8nrNX_&_nc_oc=AQmZZSNxi52Vb8IEAiQSDM6F8pQHivSaBdEKpnhR95TBd7wyfQbvjY2cdwT2PcVv9xE&tn=085pkJ5jQ06FGzo8&_nc_ht=scontent.fyhu2-1.fna&oh=00_AfDlx-8g9MhU5LQYwvE6_L169g6X6k0FKFrgQMBpPZ5GXA&oe=63604548"
+}
+    ]
+}
